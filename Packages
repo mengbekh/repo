@@ -1,0 +1,14 @@
+Package: com.mengbekh.khmerpreyvengfonts
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mengbekh <mengbe63@gmail.com>
+Depends: firmware (>= 11.3.1)
+Filename: debs/khmerpreyvengfonts.deb
+Size: 51714
+MD5sum: 938a068463b1fed849a877e7a6094cf2
+SHA1: 28755d96302868df8f71d5c1d75f6148d93ce635
+SHA256: d82537945a600aebc18bb277e2ab802fcbc63c2493fe4ac3a6aca97fcb6848eb
+Section: Fonts
+Description: khmerpreyvengfonts support ios 9.x.x to ios 11.3.1
+Author: mengbekh <mengbe63@gmail>
+Name: khmerpreyvengfontsforios
